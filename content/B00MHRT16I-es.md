@@ -26,8 +26,8 @@ Está [Sylvanian Families- Country Tree School Mini muñecas y Accesorios  Multi
 ℹ️:
 
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Figuras de 6 a 10 cm
 - Desarrolla el juego imaginativo y cotidiano de los niños
+- Figuras de 6 a 10 cm
 - Conectables y coleccionables
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 
