@@ -25,10 +25,10 @@ Tienes [Aquabeads-79248 Sylvanian Families  Multicolor  Epoch para Imaginar 7924
 
 🔎:
 
-- Perlas de agua
-- Contiene 600 cuentas en ocho colores diferentes
-- Para niños de 4 a 14 años
 - Incluye cuatro hojas de plantilla de la marca sylvanian families
 - Desarrolla el juego imaginativo y cotidiano de los niños
+- Para niños de 4 a 14 años
+- Contiene 600 cuentas en ocho colores diferentes
+- Perlas de agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00SUZXD24/?tag=tolees-21)
