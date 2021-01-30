@@ -28,10 +28,10 @@ Tienes [Sylvanian Families - 5272 - Familia canguros](https://www.amazon.es/dp/B
 
 🔎:
 
-- Desarrolla el juego imaginativo y cotidiano de los niños
-- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
-- Conectables y coleccionables
-- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Figuras de 6 a 10 cm
+- Desarrolla el juego imaginativo y cotidiano de los niños
+- Conectables y coleccionables
+- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
+- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XNZFS9R/?tag=tolees-21)
