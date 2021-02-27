@@ -28,9 +28,9 @@ Ahora mismo tienes [Sylvanian Families - 4175 - Familia Gatos de Seda](https://w
 
 🔎:
 
+- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Desarrolla el juego imaginativo y cotidiano de los niños
-- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 - Conectables y coleccionables
 - Figuras de 6 a 10 cm
 
