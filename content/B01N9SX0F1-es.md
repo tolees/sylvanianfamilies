@@ -28,9 +28,9 @@ Está [Sylvanian Families- Nursery Friends Mini muñecas y Accesorios  Multicolo
 
 ℹ️:
 
+- Figuras de 6 a 10 cm
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 - Desarrolla el juego imaginativo y cotidiano de los niños
-- Figuras de 6 a 10 cm
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Conectables y coleccionables
 
