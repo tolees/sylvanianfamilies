@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD10A-es Sylvanian Families 5037 Deluxe Living Room - Set Mini para...'
 sku: 'B00HRRD10A-es'
-tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

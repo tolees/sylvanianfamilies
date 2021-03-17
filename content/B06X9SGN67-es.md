@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo Epoch...'
 sku: 'B06X9SGN67-es'
-tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

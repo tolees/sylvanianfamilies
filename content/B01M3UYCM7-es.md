@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3UYCM7-es SYLVANIAN FAMILIES Set Cuarto de baño Multicolor Epoch...'
 sku: 'B01M3UYCM7-es'
-tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

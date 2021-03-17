@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MHRT0PK-es SYLVANIAN FAMILIES- School Friends Mini muñecas y...'
 sku: 'B00MHRT0PK-es'
-tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16
