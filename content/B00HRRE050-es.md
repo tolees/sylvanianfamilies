@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
 sku: 'B00HRRE050-es'
-tags: [ 'families','sylvanian', ]
+tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian', ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17
