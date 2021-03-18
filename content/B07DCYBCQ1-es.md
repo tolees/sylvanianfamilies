@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCYBCQ1-es Sylvanian Families - 5318 - Casa del árbol para bebés'
 sku: 'B07DCYBCQ1-es'
-tags: [ 'Casas de muñecas','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','families','sylvanian','sylvanian families', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

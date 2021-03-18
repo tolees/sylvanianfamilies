@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BREENBY-es Sylvanian Families - 5308 - Familia Ratón Marshmallow'
 sku: 'B01BREENBY-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','families','sylvanian','sylvanian families', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74
