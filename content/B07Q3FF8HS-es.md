@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3FF8HS-es Sylvanian Families - 5365 - La mansión de Stella'
 sku: 'B07Q3FF8HS-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD11O-es SYLVANIAN FAMILIES- Baby Room Set Mini muñecas y...'
 sku: 'B00HRRD11O-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08
