@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- También hay un balcón mirador
 - Para estimular el juego imaginativo de roles en niños
+- También hay un balcón mirador
 - Una torre de entrada y un ascensor real
 - El juego viene con un edificio de tiendas departamentales de dos pisos
 
