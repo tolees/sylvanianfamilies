@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edad recomendada: +3 años.
+- Estimula el juego de rol imaginativo de los niños.
 - ¿Te apetece un cambio de look? ¡Con Serafina Pony estarás en las mejores manos! El Set Estilista Serafina Pony incluye carrito de estilista con un montón de accesorios para crear los estilos que más se adapten a cada visitante del Salón de Belleza.
 - ¡Crea diferentes estilos combinando los accesorios para el pelo!
-- Estimula el juego de rol imaginativo de los niños.
+- Edad recomendada: +3 años.
 - Todos los accesorios caben en el carrito de estilista.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
