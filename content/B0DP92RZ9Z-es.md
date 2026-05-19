@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El set incluye 4 figuras con accesorios: 2 figuras de niña; 2 figuras de bebé.
 - Figuras y mobiliario se venden por separado.
 - Edad recomendada: +3 años.
+- El set incluye 4 figuras con accesorios: 2 figuras de niña; 2 figuras de bebé.
 - La nueva área de juegos de Sylvanian Land bien merecía estos trajes inspirados en las flores más bonitas de la Aldea Sylvanian.
 - Adéntrate en el mundo de las hadas de la mano de Freya Chocolate, Lyra Persa, Rae Husky y Rosé Ciervo. ¿Todo listo para conocer el nuevo Castillo de las Hadas?
 
