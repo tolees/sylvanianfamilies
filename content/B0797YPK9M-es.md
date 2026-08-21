@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una torre de entrada y un ascensor real
-- También hay un balcón mirador
-- El juego viene con un edificio de tiendas departamentales de dos pisos
 - Para estimular el juego imaginativo de roles en niños
+- El juego viene con un edificio de tiendas departamentales de dos pisos
+- También hay un balcón mirador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0797YPK9M{{</world>}}
