@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sylvanianfamilies.tole.es/sitemap.xml
