@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad recomendada: +3 años.
-- Noa Oso Biscuit, Mabel Gato Latte, Blair Persa y Drake Husky te invitan a pensar a lo grande con tu nuevo disfraz.
 - Para adentrarse en la nueva área de juegos de Sylvanian Land es imprescindible un disfraz. ¡Y los peques de la Aldea Sylvanian tienen los mejores!
 - Un príncipe, una bruja, un dragón y Pegasus son sus propuestas para un súper día de aventuras en Sylvanian Land. ¿Ya tienes tu favorito?
+- Edad recomendada: +3 años.
+- Noa Oso Biscuit, Mabel Gato Latte, Blair Persa y Drake Husky te invitan a pensar a lo grande con tu nuevo disfraz.
 - El set incluye cuatro (4) figuras de bebé con disfraces exclusivos de este set. Figuras y mobiliario se venden por separado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
